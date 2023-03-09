@@ -9,3 +9,6 @@ SpyUO is a tool to see decrypted and decompressed packets sent and received by U
 
 - Thanks Malganis for your hard work bringing this application as far as you did.
 - It's been almost 2 years since the last update, hope you don't mind if I continue development!
+
+## Refer to the packet list:
+https://docs.polserver.com/packets/index.php
